@@ -20,3 +20,25 @@ C:\Users\Kelvin\Desktop\ChatGPT\ChatGPT\bin\Debug\net7.0\Microsoft.Extensions.Co
 C:\Users\Kelvin\Desktop\ChatGPT\ChatGPT\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\Kelvin\Desktop\ChatGPT\ChatGPT\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
 C:\Users\Kelvin\Desktop\ChatGPT\ChatGPT\bin\Debug\net7.0\Sprache.dll
+C:\Users\Kelvin\Documents\Grupo de estudos\CSharp_Fundamentos\ChatGPT\ChatGPT_API_CSharp\ChatGPT\bin\Debug\net7.0\ChatGPT.exe
+C:\Users\Kelvin\Documents\Grupo de estudos\CSharp_Fundamentos\ChatGPT\ChatGPT_API_CSharp\ChatGPT\bin\Debug\net7.0\ChatGPT.deps.json
+C:\Users\Kelvin\Documents\Grupo de estudos\CSharp_Fundamentos\ChatGPT\ChatGPT_API_CSharp\ChatGPT\bin\Debug\net7.0\ChatGPT.runtimeconfig.json
+C:\Users\Kelvin\Documents\Grupo de estudos\CSharp_Fundamentos\ChatGPT\ChatGPT_API_CSharp\ChatGPT\bin\Debug\net7.0\ChatGPT.dll
+C:\Users\Kelvin\Documents\Grupo de estudos\CSharp_Fundamentos\ChatGPT\ChatGPT_API_CSharp\ChatGPT\bin\Debug\net7.0\ChatGPT.pdb
+C:\Users\Kelvin\Documents\Grupo de estudos\CSharp_Fundamentos\ChatGPT\ChatGPT_API_CSharp\ChatGPT\bin\Debug\net7.0\DotNetEnv.dll
+C:\Users\Kelvin\Documents\Grupo de estudos\CSharp_Fundamentos\ChatGPT\ChatGPT_API_CSharp\ChatGPT\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Kelvin\Documents\Grupo de estudos\CSharp_Fundamentos\ChatGPT\ChatGPT_API_CSharp\ChatGPT\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kelvin\Documents\Grupo de estudos\CSharp_Fundamentos\ChatGPT\ChatGPT_API_CSharp\ChatGPT\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Kelvin\Documents\Grupo de estudos\CSharp_Fundamentos\ChatGPT\ChatGPT_API_CSharp\ChatGPT\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Kelvin\Documents\Grupo de estudos\CSharp_Fundamentos\ChatGPT\ChatGPT_API_CSharp\ChatGPT\bin\Debug\net7.0\Sprache.dll
+C:\Users\Kelvin\Documents\Grupo de estudos\CSharp_Fundamentos\ChatGPT\ChatGPT_API_CSharp\ChatGPT\obj\Debug\net7.0\ChatGPT.csproj.AssemblyReference.cache
+C:\Users\Kelvin\Documents\Grupo de estudos\CSharp_Fundamentos\ChatGPT\ChatGPT_API_CSharp\ChatGPT\obj\Debug\net7.0\ChatGPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\Documents\Grupo de estudos\CSharp_Fundamentos\ChatGPT\ChatGPT_API_CSharp\ChatGPT\obj\Debug\net7.0\ChatGPT.AssemblyInfoInputs.cache
+C:\Users\Kelvin\Documents\Grupo de estudos\CSharp_Fundamentos\ChatGPT\ChatGPT_API_CSharp\ChatGPT\obj\Debug\net7.0\ChatGPT.AssemblyInfo.cs
+C:\Users\Kelvin\Documents\Grupo de estudos\CSharp_Fundamentos\ChatGPT\ChatGPT_API_CSharp\ChatGPT\obj\Debug\net7.0\ChatGPT.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\Documents\Grupo de estudos\CSharp_Fundamentos\ChatGPT\ChatGPT_API_CSharp\ChatGPT\obj\Debug\net7.0\ChatGPT.csproj.CopyComplete
+C:\Users\Kelvin\Documents\Grupo de estudos\CSharp_Fundamentos\ChatGPT\ChatGPT_API_CSharp\ChatGPT\obj\Debug\net7.0\ChatGPT.dll
+C:\Users\Kelvin\Documents\Grupo de estudos\CSharp_Fundamentos\ChatGPT\ChatGPT_API_CSharp\ChatGPT\obj\Debug\net7.0\refint\ChatGPT.dll
+C:\Users\Kelvin\Documents\Grupo de estudos\CSharp_Fundamentos\ChatGPT\ChatGPT_API_CSharp\ChatGPT\obj\Debug\net7.0\ChatGPT.pdb
+C:\Users\Kelvin\Documents\Grupo de estudos\CSharp_Fundamentos\ChatGPT\ChatGPT_API_CSharp\ChatGPT\obj\Debug\net7.0\ChatGPT.genruntimeconfig.cache
+C:\Users\Kelvin\Documents\Grupo de estudos\CSharp_Fundamentos\ChatGPT\ChatGPT_API_CSharp\ChatGPT\obj\Debug\net7.0\ref\ChatGPT.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oV+J4JPBxcPwQ8vkkz3cxBLgSr+xraG2gMxhn+tVHnsxTxvwqfI+VMNCweFJdZn8s7d3RWvNfkNkGgZ8kClsAQ==",
+  "dgSpecHash": "xA65G09URplxJLyy28Zm0ef5YWVHIj1kN0T2AG6hw5+22RSUi5+2qkH0KmbneAmtsOZxx84EE70nk/Jpu8EIrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kelvin\\Desktop\\ChatGPT\\ChatGPT\\ChatGPT.csproj",
+  "projectFilePath": "C:\\Users\\Kelvin\\Documents\\Grupo de estudos\\CSharp_Fundamentos\\ChatGPT\\ChatGPT_API_CSharp\\ChatGPT\\ChatGPT.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kelvin\\.nuget\\packages\\dotnetenv\\2.5.0\\dotnetenv.2.5.0.nupkg.sha512",
     "C:\\Users\\Kelvin\\.nuget\\packages\\microsoft.extensions.configuration\\1.1.2\\microsoft.extensions.configuration.1.1.2.nupkg.sha512",
